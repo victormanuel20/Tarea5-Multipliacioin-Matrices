@@ -1,0 +1,6 @@
+tiempo: 0 segundos
+instrucciones: 66
+58 -2 -52 14
+61 -13 32 58
+-94 42 96 -78
+-93 1 25 -40

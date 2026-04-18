@@ -1,0 +1,6 @@
+tiempo: 0 segundos
+instrucciones: 66
+80 71 95 105
+58 87 104 145
+-100 44 24 60
+68 -2 22 26

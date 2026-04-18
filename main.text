@@ -1,0 +1,22 @@
+\begin{titlepage}
+    \centering
+    \vspace*{2cm}
+    {\LARGE \textbf{Universidad}\par}
+    \vspace{0.4cm}
+    {\large Departamento de Ingenieria de Sistemas\par}
+    \vspace{2cm}
+    {\Huge \textbf{Tarea 5}\par}
+    \vspace{0.5cm}
+    {\LARGE \textbf{Strassen vs.\ Fuerza Bruta:\\[6pt]
+    Multiplicacion de Matrices}\par}
+    \vspace{2cm}
+    {\large \textbf{Curso:} Diseno de Algoritmos\par}
+    \vspace{0.4cm}
+    {\large \textbf{Autor:} Victor Manuel Garcia Castaneda\par}
+    \vspace{0.4cm}
+    {\large \textbf{Fecha:} Abril 2026\par}
+    \vfill
+\end{titlepage}
+
+\tableofcontents
+\newpage

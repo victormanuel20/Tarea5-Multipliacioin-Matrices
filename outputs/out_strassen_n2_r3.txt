@@ -1,0 +1,4 @@
+tiempo: 0 segundos
+instrucciones: 10
+-66 64
+30 -25
